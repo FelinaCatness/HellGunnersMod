@@ -1,0 +1,122 @@
+{
+  "ric": {
+    "sounds": [
+      {
+        "name": "hg:bric1",
+        "stream": false
+      },
+      {
+        "name": "hg:bric2",
+        "stream": false
+      },
+      {
+        "name": "hg:bric3",
+        "stream": false
+      },
+      {
+        "name": "hg:bric4",
+        "stream": false
+      },
+      {
+        "name": "hg:bric5",
+        "stream": false
+      }
+    ]
+  },
+  "ar23_bolt": {
+    "sounds": [
+      {
+        "name": "hg:ar23_bolt",
+        "stream": false
+      }
+    ]
+  },
+  "ar23_clipin": {
+    "sounds": [
+      {
+        "name": "hg:ar23_clipin",
+        "stream": false
+      }
+    ]
+  },
+  "ar23_clipout": {
+    "sounds": [
+      {
+        "name": "hg:ar23_clipout",
+        "stream": false
+      }
+    ]
+  },
+  "ar23_shoot": {
+    "sounds": [
+      {
+        "name": "hg:ar23_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "gun_cloth": {
+    "sounds": [
+      {
+        "name": "hg:gun_cloth",
+        "stream": false
+      }
+    ]
+  },
+  "mg43_shoot": {
+    "sounds": [
+      {
+        "name": "hg:mg43_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "mg43_foley": {
+    "sounds": [
+      {
+        "name": "hg:mg43_foley",
+        "stream": false
+      }
+    ]
+  },
+  "mg43_bolt": {
+    "sounds": [
+      {
+        "name": "hg:mg43_bolt",
+        "stream": false
+      }
+    ]
+  },
+  "plas1_reload": {
+    "sounds": [
+      {
+        "name": "hg:plas1_reload",
+        "stream": false
+      }
+    ]
+  },
+  "plas1_shoot": {
+    "sounds": [
+      {
+        "name": "hg:plas1_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "flare_shoot02": {
+    "sounds": [
+      {
+        "name": "hg:flare_shoot02",
+        "stream": false
+      }
+    ]
+  },
+  "mgl_load": {
+    "sounds": [
+      {
+        "name": "hg:mgl_load",
+        "stream": false
+      }
+    ]
+  }
+}

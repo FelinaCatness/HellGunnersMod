@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/ar2.item",
+  "textures": {
+    "layer0": "hg:item/ar2"
+  }
+}

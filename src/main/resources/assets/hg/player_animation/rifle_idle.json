@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"rifle_idle": {
+			"loop": true,
+			"animation_length": 80,
+			"bones": {
+				"right_arm": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [-78.42505, 49.41933, 8.84179]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

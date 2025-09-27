@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/gp31.item",
+  "textures": {
+    "layer0": "hg:item/gp31"
+  }
+}

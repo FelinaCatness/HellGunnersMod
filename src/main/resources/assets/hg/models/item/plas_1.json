@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/plas1.item",
+  "textures": {
+    "layer0": "hg:item/plas1"
+  }
+}

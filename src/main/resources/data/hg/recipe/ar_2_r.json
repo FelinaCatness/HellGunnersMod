@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "minecraft:blaze_powder"
+    },
+    "d": {
+      "item": "minecraft:beacon"
+    },
+    "e": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "id": "hg:supply_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="hg"
+version="1.0.0"
+displayName="Hell Gunners"
+displayURL="https://awawa.net"
+credits="Derek179"
+authors="Felina Catness"
+description="guns from Helldivers 2"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.hg]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.65,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.hg]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+
+[[dependencies.hg]]
+modId="geckolib"
+type="optional"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.hg]]
+modId="playeranimator"
+type="optional"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/mg43.item",
+  "textures": {
+    "layer0": "hg:item/mg43"
+  }
+}

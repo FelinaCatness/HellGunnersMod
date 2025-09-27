@@ -1,0 +1,126 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 8,
+			"bones": {
+				"spawn": {
+					"position": {
+						"0.0": {
+							"vector": [0, 2, 0]
+						},
+						"0.0833": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"drop": {
+					"position": {
+						"0.0": {
+							"vector": [0, 1534, 0]
+						},
+						"1.0": {
+							"vector": [0, 2500, 0]
+						},
+						"5.8333": {
+							"vector": [0, 2500, 0]
+						},
+						"7.0833": {
+							"vector": [0, 0, 0]
+						},
+						"7.1667": {
+							"vector": [0, -1.4, 0]
+						},
+						"7.25": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						},
+						"5.8333": {
+							"vector": [0, 0, 0]
+						},
+						"7.0833": {
+							"vector": [1, 1, 1]
+						}
+					}
+				},
+				"light": {
+					"scale": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.1667": {
+							"vector": [0, 0, 0]
+						},
+						"0.2083": {
+							"vector": [1, 1, 1]
+						},
+						"7.1667": {
+							"vector": [1, 1, 1]
+						},
+						"7.2083": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bay": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"7.5": {
+							"vector": [0, 0, 0]
+						},
+						"7.9583": {
+							"vector": [0, 13, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.model.idle": {
+			"animation_length": 0.0833,
+			"bones": {
+				"main": {
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.model.idle2": {
+			"animation_length": 0.0833,
+			"bones": {
+				"spawn": {
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"light": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.model.idle3": {
+			"loop": true,
+			"animation_length": 0.1667,
+			"bones": {
+				"light": {
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

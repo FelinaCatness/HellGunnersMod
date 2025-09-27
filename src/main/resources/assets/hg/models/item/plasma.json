@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/pro1.item",
+  "textures": {
+    "layer0": "hg:item/proi"
+  }
+}

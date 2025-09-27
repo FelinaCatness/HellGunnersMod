@@ -1,0 +1,17 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"pistol_idle": {
+			"loop": true,
+			"animation_length": 80,
+			"bones": {
+				"right_arm": {
+					"rotation": {
+						"vector": [-85, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

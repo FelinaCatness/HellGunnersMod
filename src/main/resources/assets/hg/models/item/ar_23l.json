@@ -1,0 +1,6 @@
+{
+  "parent": "hg:displaysettings/ar23.item",
+  "textures": {
+    "layer0": "hg:item/ar23"
+  }
+}
